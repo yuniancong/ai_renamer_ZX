@@ -1,0 +1,14 @@
+{
+  "defaultProvider": "ollama",
+  "defaultModel": "llava",
+  "defaultBaseURL": "http://127.0.0.1:11434",
+  "defaultApiKey": "",
+  "defaultFrames": 3,
+  "defaultCase": "kebabCase",
+  "defaultChars": 50,
+  "defaultLanguage": "English",
+  "defaultIncludeSubdirectories": false,
+  "defaultCustomPrompt": "",
+  "customFileTypes": [],
+  "recentConfigs": []
+}

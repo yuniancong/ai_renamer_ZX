@@ -1,0 +1,25 @@
+{
+  "name": "ai-renamer-zx",
+  "version": "1.0.0",
+  "description": "AI-powered file renaming tool with visual interface",
+  "main": "start.js",
+  "scripts": {
+    "start": "node start.js",
+    "server": "cd server && npm start",
+    "client": "cd client && npm run dev",
+    "install:all": "npm install && cd server && npm install && cd ../client && npm install && cd ..",
+    "build": "cd client && npm run build"
+  },
+  "keywords": [
+    "ai",
+    "file-renamer",
+    "ollama",
+    "llm",
+    "automation"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
